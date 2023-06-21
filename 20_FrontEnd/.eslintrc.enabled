@@ -1,0 +1,5 @@
+AutoImport({
+  eslintrc: {
+    enabled: true, // <-- this
+  },
+})

@@ -1,0 +1,17 @@
+{
+  "regst-user": "Regist",
+  "login": "Login",
+  "logout": "Logout",
+  "language": "언어",
+  "user-name": "이름",
+  "id": "ID(E-mail)",
+  "password": "패스워드",
+  "password-confirm": "패스워드 확인",
+  "regist": "등록",
+  "confirm-length": "8 Characters",
+  "confirm-number": "1 Numbers (0~9)",
+  "confirm-letter": "1 Letter (A~Z)",
+  "language-ko":"Korean",
+  "language-en":"English",
+  "language-zh":"China"
+}
